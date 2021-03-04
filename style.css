@@ -1,0 +1,22 @@
+html,body,h1,h2,h3,h4,h5,h6
+{
+    font-family: 'Shippori Mincho', serif;
+font-family: 'Shippori Mincho B1', serif;
+}
+
+footer .fa
+{
+    margin-right: 10px;
+    font-size: 26px;
+    
+}
+footer .fa:hover
+{
+    color: green;
+    cursor: pointer;
+}
+footer #fname:hover
+{
+    cursor: pointer;
+    color: green;
+}
